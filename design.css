@@ -70,7 +70,7 @@ b{
 
 
 .pics:hover{
-    transform:scale(125%);
+    transform:scale(120%);
     overflow: var(--image_overflow_type);
     z-index:var(--overflow_helper);
 }
